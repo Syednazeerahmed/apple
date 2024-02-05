@@ -21,9 +21,10 @@ function App() {
 
      <User />  component-implementation  
 
-     <UserProps name="naz" age={21} email="naz@naz.com"/> props-implementation*/}
+     <UserProps name="naz" age={21} email="naz@naz.com"/> props-implementation
 
-     <Job salary={100000} position="full stack engineer" company="xyz"/>
+     <Job salary={100000} position="full stack engineer" company="xyz"/> props-assignment
+      */}
     </div>
   );
 }
