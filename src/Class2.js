@@ -40,9 +40,10 @@ function Class2 (){
             );
         })}
         */}
-
+           {/* map-function exercise  */}
         {planets.map((planets, key) => {
-            if(planets.isGasPlanet)   return<h1>{planets.name}</h1>;
+           // if(planets.isGasPlanet)   return<h1>{planets.name}</h1>;
+           return planets.isGasPlanet && <h1>{planets.name}</h1>;
         })}
       </div>
     
