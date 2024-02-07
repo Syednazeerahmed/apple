@@ -42,8 +42,10 @@
 }
 
 .middle{
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
+/* text-align: center; */
+display: flex;
+justify-content: center;
+align-items: center;
+/* background-color: #282c34; */
+flex-direction: column;
 }
