@@ -6,7 +6,8 @@ import "./App.module.css";
 // import Class5 from './Class5'
 // import Class6 from './Class6';
 // import Class7 from './Class7';
-import Class8 from './Class8';
+// import Class8 from './Class8';
+import Class9 from './Class9';
 
 function App() {
   return (
@@ -17,7 +18,8 @@ function App() {
     // <Class5 />
     // <Class6 />
     // <Class7 />
-    <Class8 />
+    // <Class8 />
+    <Class9 />
     );
 }
 

@@ -14,13 +14,8 @@ function Class8() {
           <Router>
             <Navbar />
             <Routes>
-              <Route path="/" element={<Home username={username} />} />
-              <Route
-                path="/profile"
-                element={
-                  <Profile username={username} setUsername={setUsername} />
-                }
-              />
+              <Route path="/" element={<Home/>} />
+              <Route path="/profile" element={<Profile/>}/>
               <Route path="/contact" element={<Contact />} />
               <Route path="*" element={<h1>Page not found</h1>} />
             </Routes>
