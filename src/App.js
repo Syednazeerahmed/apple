@@ -7,7 +7,9 @@ import "./App.module.css";
 // import Class6 from './Class6';
 // import Class7 from './Class7';
 // import Class8 from './Class8';
-import Class9 from './Class9';
+// import Class9 from './Class9';
+import Class10 from "./Class10";
+
 
 function App() {
   return (
@@ -19,8 +21,9 @@ function App() {
     // <Class6 />
     // <Class7 />
     // <Class8 />
-    <Class9 />
-    );
+    // <Class9 />
+    <Class10 />
+  );
 }
 
 export default App;
