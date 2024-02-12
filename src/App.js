@@ -8,7 +8,9 @@ import "./App.module.css";
 // import Class7 from './Class7';
 // import Class8 from './Class8';
 // import Class9 from './Class9';
-import Class10 from "./Class10";
+// import Class10 from "./Class10";
+import Class11 from "./Class11";
+
 
 
 function App() {
@@ -22,7 +24,8 @@ function App() {
     // <Class7 />
     // <Class8 />
     // <Class9 />
-    <Class10 />
+    // <Class10 />
+    <Class11 /> 
   );
 }
 
